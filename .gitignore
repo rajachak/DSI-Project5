@@ -4,8 +4,8 @@
 *.xls
 .ipynb_checkpoints
 keys.py
-.DS_store
-dev*
+.DS_Store
+"dev api example"
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
