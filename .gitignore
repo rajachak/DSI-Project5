@@ -1,8 +1,11 @@
 #project files
 *.csv
 *.xlsx
+*.xls
 .ipynb_checkpoints
 keys.py
+.DS_store
+dev*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
